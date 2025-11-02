@@ -1,4 +1,12 @@
+<div align="center">
+    ⏬<b>YOBBY TOXIC</b>⏬</b>
 
+  
+<div align="center">
+</p>
+
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=HELLO+IM+YOBBY+TOXIC+YOUNG+TECH)](https://git.io/typing-svg)
 
 <img align="center" height="auto"
 src="https://files.catbox.moe/0x3qyc.jpg?">
