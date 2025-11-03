@@ -1,0 +1,20 @@
+{
+  "name": "CypherX",
+  "version": "1.1.5",
+  "description": "Deployment script for CypherX",
+  "main": "index.js",
+  "engines": {
+      "node": ">= 18.x",
+      "npm": ">= 10.x"
+   },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Tylor",
+  "license": "MIT",
+  "dependencies": {
+        "adm-zip": "^0.5.16",
+        "axios": "^1.8.3",
+        "moment-timezone": "^0.5.45"
+  }
+}
